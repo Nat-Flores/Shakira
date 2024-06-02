@@ -229,6 +229,9 @@ textarea {
 .label-title {
     margin: 20px 0 10px 0;
 }
+.file {
+    margin-top: 20px;
+}
 
 .genero {
     margin: 20px 0 10px 0;
